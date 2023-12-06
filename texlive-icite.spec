@@ -1,6 +1,6 @@
 Name:		texlive-icite
-Version:	54512
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Indices locorum citatorum
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/icite
